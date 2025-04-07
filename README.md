@@ -1,4 +1,4 @@
-# sooochi
+# soochi
 
 A new Flutter project.
 
